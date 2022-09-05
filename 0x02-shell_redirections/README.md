@@ -1,1 +1,1 @@
-hello file
+Hello, World Script
